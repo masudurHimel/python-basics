@@ -28,7 +28,7 @@ def generate_clues(ai_guess, user_guess):
 
 ai_guess = random_generator()
 print("Computer Value is generated\n")
-print(ai_guess)
+
 
 user_guess = input("Guess a number of 3 digit : ")
 
